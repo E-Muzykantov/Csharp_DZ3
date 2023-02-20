@@ -1,0 +1,15 @@
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\bin\Debug\net6.0\Ex21.exe
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\bin\Debug\net6.0\Ex21.deps.json
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\bin\Debug\net6.0\Ex21.runtimeconfig.json
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\bin\Debug\net6.0\Ex21.dll
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\bin\Debug\net6.0\Ex21.pdb
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.csproj.AssemblyReference.cache
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.AssemblyInfoInputs.cache
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.AssemblyInfo.cs
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.csproj.CoreCompileInputs.cache
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.dll
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\refint\Ex21.dll
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.pdb
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\Ex21.genruntimeconfig.cache
+C:\Users\linem\Desktop\Разработчик\4. Знакомство с языками программирования\Семинар 3\DZ3\Ex21\obj\Debug\net6.0\ref\Ex21.dll
