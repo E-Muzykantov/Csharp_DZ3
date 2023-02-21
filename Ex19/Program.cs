@@ -18,9 +18,14 @@ string CheckIsPolindrom(string array)
     for (int i = 0, j = length - 1; i < length / 2; i++, j--)
     {
         if (array[i] == array[j]) result = "Да";
-        else result = "Нет";
+        else 
+        {
+            result = "Нет";
+            break; // исправил ошибку
+        }
     }
     return result;
+    
 }
 
 Console.Write($"{array} -> {CheckIsPolindrom (array)}");
